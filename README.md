@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AdamPrzychodniStudent
+- 👀 I’m interested in AI and ML in strategy management and finance
+- 🌱 I’m currently learning Python, Azure, SQL, VBA and R
+- 💞️ I’m looking to collaborate on ML projects
+- 📫 How to reach me Linkedin
